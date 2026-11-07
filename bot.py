@@ -12,7 +12,7 @@ try { // .env faylni o'qish (qo'shimcha paketsiz)
 } catch (_) {}
 
 const TOKEN = process.env.BOT_TOKEN;
-if (!TOKEN) { console.error('BOT_TOKEN topilmadi (.env yoki hosting sozlamalarini tekshiring)'); process.exit(1); }
+if (!TOKEN) { console.error('9273297548:AAG25UUvYdmaE7nZxS5JhsMKJonzuTdOhwg'); process.exit(1); }
 const MAIN_ADMIN = Number(process.env.ADMIN_ID || 8849504131);
 const MAX_CHANNELS = 7;
 const MAX_ALBUMS = 5;
